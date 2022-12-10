@@ -1,0 +1,4 @@
+.idea
+.ipynb_checkpoints
+flickr8ksau
+vgg16_weights_tf_dim_ordering_tf_kernels.h5
